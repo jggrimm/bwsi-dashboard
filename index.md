@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+![BWSI](./assets/img/logo-full.png)
+
 # Student Course Links
 
 | Course | Orientation Packet | Syllabus |

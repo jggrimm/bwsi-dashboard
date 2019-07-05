@@ -1,123 +1,51 @@
 ---
 layout: default
 ---
+# Student Course Links
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+| Course | Orientation Packet | Syllabus |
+| ------ | ---- |
+| Racecar | [Click Here](https://drive.google.com/file/d/12aDJJZVbDnfC57evqTdtu9WWM_dCFfRJ/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1Hs_wsW0Wf0JK6mV4YuWQe9wPuuEkTMC8/view?usp=sharing) |
+| Medlytics | [Click Here](https://drive.google.com/file/d/1esh6Y9h3qnsb8OSKIKP-Dz0QsMBMvpfh/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1MqH_uZpj6jhS-czXeXuw9eaPdFT33Psf/view?usp=sharing) |
+| CogWorks | [Click Here](https://drive.google.com/file/d/1qDG84qfkpXVIGJN0HVF_X5jgAM2ldXxV/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1B7fWrEHcds6CyQeD4ChRQ39cygKlwY38/view?usp=sharing) |
+| Remote Sensing | [Click Here](https://drive.google.com/file/d/1xT6-MJ3ijQ0-J2vSp_oQ0ljkFWCka4uZ/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1QjEEw-63NyvLLNmulj7ElPwuFJdqyEP5/view?usp=sharing) |
+| Embedded | [Click Here](https://drive.google.com/file/d/1W8k9Vvd3WkK08ls-3cqKHp6A4uojs1Vs/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/13-t4R4SaISDZypFOPpfMAZR--Nl0OMlg/view?usp=sharing) |
+| CubeSat | [Click Here](https://drive.google.com/file/d/1aeHqIxK4G0Kv-yaTI_t_mNX_YHgczGFd/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1Inn-eADDLnTRTnudXp80835OKs8ay2Jv/view?usp=sharing) |
+| UAV-SAR | [Click Here](https://drive.google.com/file/d/1eFTEsfdziLlYyfdNeggMU9R0M9yA6Ge8/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1UyMIpbCWXOu5q9CR_1aYVGpyssQ6BdgT/view?usp=sharing) |
+| Assistive Tech | [Click Here](https://drive.google.com/file/d/1M48whYhvRJxvrbda06ednzGDDfPMP05H/view?usp=sharing) | [Click Here]( https://drive.google.com/file/d/1NX97Ur7Sp9ok4Te1a22ZncnIG9dzBjHh/view?usp=sharing) |
+| UAV | [Click Here](https://drive.google.com/file/d/1AEsCXamPX_5H4aGzU9944Txyxpq8ct4p/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/12gDWrbvQ6lcEM7pATHxEf4Wc-x2JP5pi/view?usp=sharing) |
+| 3D Printing | [Click Here](https://drive.google.com/file/d/1eULzHOGASmNEomgvF1s8v5yAQrKNPlUu/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1dhvT15XgVZ1o_7JHNjfK4ro0WJapHzkb/view?usp=sharing) |
+| Racecar (Middle School) | [Click Here](https://drive.google.com/file/d/1RuM7pRAJV_Q0uZNhlVk0umDD1Rciv2gr/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1Biq1HqyNakYNODytJO4i3DDvZ1Ja44GN/view?usp=sharing) |
 
-[Link to another page](./another-page.html).
+<br/>
 
-There should be whitespace between paragraphs.
+# Student Surveys Links
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+| Survey |      |
+| ------ | ---- |
+| Pre-Program | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019__student_survey_preprogram_) |
+| Mid-Program | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_midprogram_) |
+| Post-Program |[Click Here]( https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_postprogram_) |
 
-# Header 1
+<br/>
+ 
+# Sample Assignments
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+| Name |      |
+| ---- | ---- |
+| Video Example 1 | [Click Here](https://drive.google.com/file/d/1F-vP8NcrDRrVUbPGFaYjToiHWA_v9uAN/view?usp=sharing) |
+| Video Example 2 | [Click Here](https://drive.google.com/file/d/1Kj56vio2JhtkeAlZlXiWK8zsx9HMxyEj/view?usp=sharing) |
+| Yearbook Personal Card Example | [Click Here](https://drive.google.com/file/d/1qOhY6brnW0HZ4JQeN2JLooeoECe-vkst/view?usp=sharing) |
 
-## Header 2
+<br/>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Staff Links
 
-### Header 3
+| Course |      |
+| ------ | ---- |
+| Lead Instructor Orientation Packet | [Click Here](https://drive.google.com/file/d/14zvWTPmdL5d_xRpTMRjialr7Ll8L2Xyv/view?usp=sharing) |
+| Instructors Orientation Packet | [Click Here](https://drive.google.com/file/d/1oHEUjkCau0G1BEQpQC9IvvHTmII6otLy/view?usp=sharing) |
+| Calendar | [Click Here](https://calendar.google.com/calendar?cid=bWl0bGxiZWF2ZXJ3b3Jrc0BnbWFpbC5jb20) |
+| BWSI'19 Program Brochure | [Click Here](https://drive.google.com/file/d/1f6MtWChhFetyJVoSkKW4KYEGOP3-rO66/view?usp=sharing) |
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<br/>

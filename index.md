@@ -23,27 +23,28 @@ layout: default
 
 # Student Surveys Links
 
-| Survey |      |
-| ------ | ---- |
-| Pre-Program | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019__student_survey_preprogram_) |
-| Mid-Program | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_midprogram_) |
-| Post-Program | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_postprogram_) |
+| Survey | Deadline | Link |
+| ------ | -------- | ---- |
+| Pre-Program | 7/11/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019__student_survey_preprogram_) |
+| Mid-Program | 7/19/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_midprogram_) |
+| Post-Program | 7/31/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_postprogram_) |
 
 <br/>
  
-# Sample Assignments
+# Student Assignments
 
-| Name |      |
-| ---- | ---- |
-| Video Example 1 | [Click Here](https://drive.google.com/file/d/1F-vP8NcrDRrVUbPGFaYjToiHWA_v9uAN/view?usp=sharing) |
-| Video Example 2 | [Click Here](https://drive.google.com/file/d/1Kj56vio2JhtkeAlZlXiWK8zsx9HMxyEj/view?usp=sharing) |
-| Yearbook Personal Card Example | [Click Here](https://drive.google.com/file/d/1qOhY6brnW0HZ4JQeN2JLooeoECe-vkst/view?usp=sharing) |
+__To be completed by each student.__
+
+| Name | Deadline | Description | Examples |
+| ---- | -------- | ----------- | ------ |
+| Video | 7/31/19 | A 30 second video emphasizing your course and transformational experience at BWSI. | [[1]](https://drive.google.com/file/d/1F-vP8NcrDRrVUbPGFaYjToiHWA_v9uAN/view?usp=sharing) [[2]](https://drive.google.com/file/d/1Kj56vio2JhtkeAlZlXiWK8zsx9HMxyEj/view?usp=sharing) |
+| Post Card | 7/31/19 | A post card that will be included in your class yearbook. |[[1]](https://drive.google.com/file/d/1qOhY6brnW0HZ4JQeN2JLooeoECe-vkst/view?usp=sharing) |
 
 <br/>
 
 # Program Links
 
-| Name |      |
+| Name | Link |
 | ---- | ---- |
 | BWSI'19 Program Brochure | [Click Here](https://drive.google.com/file/d/1f6MtWChhFetyJVoSkKW4KYEGOP3-rO66/view?usp=sharing) |
 | Staff List | [Click Here](https://docs.google.com/document/d/1oD41npMcMWC7HpVsdCkwTN9YD_uZM62C41skchSb5LM/edit?usp=sharing) |
@@ -53,7 +54,7 @@ layout: default
 
 # Staff Links
 
-| Course |      |
+| Course | Link |
 | ------ | ---- |
 | Lead Instructor Orientation Packet | [Click Here](https://drive.google.com/file/d/14zvWTPmdL5d_xRpTMRjialr7Ll8L2Xyv/view?usp=sharing) |
 | Instructors Orientation Packet | [Click Here](https://drive.google.com/file/d/1oHEUjkCau0G1BEQpQC9IvvHTmII6otLy/view?usp=sharing) |

@@ -17,7 +17,7 @@ layout: default
 | UAV-SAR | [Click Here](https://drive.google.com/file/d/1eFTEsfdziLlYyfdNeggMU9R0M9yA6Ge8/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1UyMIpbCWXOu5q9CR_1aYVGpyssQ6BdgT/view?usp=sharing) |
 | Assistive Tech | [Click Here](https://drive.google.com/file/d/1M48whYhvRJxvrbda06ednzGDDfPMP05H/view?usp=sharing) | [Click Here]( https://drive.google.com/file/d/1NX97Ur7Sp9ok4Te1a22ZncnIG9dzBjHh/view?usp=sharing) |
 | Remote Sensing | [Click Here](https://drive.google.com/file/d/1xT6-MJ3ijQ0-J2vSp_oQ0ljkFWCka4uZ/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1QjEEw-63NyvLLNmulj7ElPwuFJdqyEP5/view?usp=sharing) |
-| Racecar (Middle School) | [Click Here](https://drive.google.com/file/d/1IMmJrHW7F68fZmTjHIvhsQ-v6rdbXHCK/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/19E8G032gIjifUlle7j3gtzvyhoCcy2y1/view?usp=sharing) |
+| Racecar (Middle School) | [Click Here](https://drive.google.com/file/d/1IMmJrHW7F68fZmTjHIvhsQ-v6rdbXHCK/view) | [Click Here](https://drive.google.com/file/d/19E8G032gIjifUlle7j3gtzvyhoCcy2y1/view) |
 
 <br/>
 

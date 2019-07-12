@@ -42,6 +42,14 @@ __To be completed by each student.__
 
 <br/>
 
+# Internship Opportunities
+
+| Name | Link |
+| ---- | ---- |
+| BAE  | [Click Here](https://jobs.baesystems.com/global/en/job/52546BR/Engineering-Intern-High-School-Graduates-Class-of-2020) |
+
+<br/>
+
 # Program Links
 
 | Name | Link |

@@ -50,6 +50,15 @@ __To be completed by each student.__
 
 <br/>
 
+# Seminar Slides that speakers have made available
+
+| Name | Date | Link |
+| ---- | ---- | ---- |
+| Don Keiffer | 7/10/19 | [Click Here](https://drive.google.com/file/d/11Har-oYwBBjuBVygDPG5j5Ve8vp5DTH-/view?usp=sharing) |
+
+
+<br/>
+
 # Program Links
 
 | Name | Link |

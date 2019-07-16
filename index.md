@@ -56,7 +56,25 @@ __To be completed by each student.__
 | ---- | ---- | ---- |
 | Don Keiffer | 7/10/19 | [Click Here](https://drive.google.com/file/d/11Har-oYwBBjuBVygDPG5j5Ve8vp5DTH-/view?usp=sharing) |
 
+# Webcast Seminars
 
+Link: [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/) |
+
+Schedule:
+
+| Name | Date | Title |
+| ---- | ---- | ---- |
+| Prof. John Hart | 7/9/19 | Adventures in Additive Manufacturing |
+| Jerry Wohletz | 7/11/19 | Autonomous Intelligence: The AI You Don’t Know |
+| Katie Rae | 7/12/19 | Inspiring the Next Generation of Tough Tech Founders |
+| Prof. Kerry Cahoy | 7/17/19 |  |
+| Prof. Neil Gershenfeld | 7/19/19 | How to Make (almost) Anything |
+| Prof. Sanjay Sarma | 7/22/19 | How We Learn |
+| Prof. Cynthia Breazeal | 7/24/19 | Toward Human-Friendly AI |
+| Joonhee Won | 7/25/19 | The Future of Learning: Changing Pardigm of School |
+| Prof. Evelyn Wang | 7/26/19 |   |
+| Prof. Fikile Brushett | 7/29/19 |   |
+| Natalia Guerrero | 7/30/19 | Worlds Beyond Our Own: New Exoplanet Discoveries by NASA’s TESS |
 <br/>
 
 # Program Links

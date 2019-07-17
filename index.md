@@ -26,7 +26,6 @@ layout: default
 | Survey | Deadline | Link |
 | ------ | -------- | ---- |
 | Pre-Program | 7/11/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019__student_survey_preprogram_) |
-| Mid-Program | 7/19/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_midprogram_) |
 | Post-Program | 7/31/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_postprogram_) |
 
 <br/>

@@ -46,20 +46,13 @@ __To be completed by each student.__
 | Name | Link |
 | ---- | ---- |
 | BAE  | [Click Here](https://jobs.baesystems.com/global/en/job/52546BR/Engineering-Intern-High-School-Graduates-Class-of-2020) |
+| Raytheon | [Click Here](https://raytheon.com/beaverworks)
 
 <br/>
 
-# Seminar Slides that speakers have made available
+# Seminars
 
-| Name | Date | Link |
-| ---- | ---- | ---- |
-| Don Keiffer | 7/10/19 | [Click Here](https://drive.google.com/file/d/11Har-oYwBBjuBVygDPG5j5Ve8vp5DTH-/view?usp=sharing) |
-
-<br/>
-
-# Webcast Seminars
-
-To watch the seminars online, [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/)!
+To watch the webcasted seminars online, [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/)!
 
 ### Schedule
 
@@ -76,6 +69,12 @@ To watch the seminars online, [Click Here](http://web.mit.edu/webcast/beaverwork
 | Prof. Evelyn Wang | 7/26/19 |   |
 | Prof. Fikile Brushett | 7/29/19 |   |
 | Natalia Guerrero | 7/30/19 | Worlds Beyond Our Own: New Exoplanet Discoveries by NASA’s TESS |
+
+### Seminar Slides
+
+| Name | Date | Link |
+| ---- | ---- | ---- |
+| Don Keiffer | 7/10/19 | [Click Here](https://drive.google.com/file/d/11Har-oYwBBjuBVygDPG5j5Ve8vp5DTH-/view?usp=sharing) |
 
 <br/>
 

@@ -45,8 +45,8 @@ __To be completed by each student.__
 
 | Name | Link | Due |
 | ---- | ---- | --- |
-| BAE  | [Click Here](https://jobs.baesystems.com/global/en/job/52546BR/Engineering-Intern-High-School-Graduates-Class-of-2020) | July 25th |
-| Raytheon | [Click Here](https://raytheon.com/beaverworks)
+| BAE  | [Click Here](https://jobs.baesystems.com/global/en/job/52546BR/Engineering-Intern-High-School-Graduates-Class-of-2020) | July 25 |
+| Raytheon | [Click Here](https://raytheon.com/beaverworks)| August 9 |
 
 <br/>
 

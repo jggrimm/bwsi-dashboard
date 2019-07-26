@@ -34,10 +34,10 @@ layout: default
 
 __To be completed by each student.__
 
-| Name | Deadline | Description | Examples |
-| ---- | -------- | ----------- | ------ |
-| Video | 7/31/19 | A 30 second video emphasizing your course and transformational experience at BWSI. | [[1]](https://drive.google.com/file/d/1F-vP8NcrDRrVUbPGFaYjToiHWA_v9uAN/view?usp=sharing) [[2]](https://drive.google.com/file/d/1Kj56vio2JhtkeAlZlXiWK8zsx9HMxyEj/view?usp=sharing) |
-| Post Card | 7/31/19 | A post card that will be included in your class yearbook. |[[1]](https://drive.google.com/file/d/1qOhY6brnW0HZ4JQeN2JLooeoECe-vkst/view?usp=sharing) |
+| Name | Deadline | Description | Examples | Upload Link |
+| ---- | -------- | ----------- | -------- | ----------- |
+| Video | 7/31/19 | A 30 second video emphasizing your course and transformational experience at BWSI. | [[1]](https://drive.google.com/file/d/1F-vP8NcrDRrVUbPGFaYjToiHWA_v9uAN/view?usp=sharing) [[2]](https://drive.google.com/file/d/1Kj56vio2JhtkeAlZlXiWK8zsx9HMxyEj/view?usp=sharing) | [Upload Here](https://docs.google.com/forms/d/1YaQ-uSHbExGMmAletvIm-RqRru997V0LUcnUUQjbhjU/edit#responses) |
+| Post Card | 7/31/19 | A post card that will be included in your class yearbook. |[[1]](https://drive.google.com/file/d/1qOhY6brnW0HZ4JQeN2JLooeoECe-vkst/view?usp=sharing) | [Upload Here](https://docs.google.com/forms/d/e/1FAIpQLSeTB_lGWjXCpd5H7_iWYtD0AqNGcW-wGOA1Fo0FlYWit5ZW1g/viewform) |
 
 <br/>
 

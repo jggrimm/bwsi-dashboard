@@ -84,7 +84,7 @@ To watch the webcasted seminars online, [Click Here](http://web.mit.edu/webcast/
 | ---- | ---- |
 | BWSI'19 Program Brochure | [Click Here](https://drive.google.com/file/d/1f6MtWChhFetyJVoSkKW4KYEGOP3-rO66/view?usp=sharing) |
 | Staff List | [Click Here](https://docs.google.com/document/d/1oD41npMcMWC7HpVsdCkwTN9YD_uZM62C41skchSb5LM/edit?usp=sharing) |
-| Student List | [Click Here](https://drive.google.com/file/d/1QfBoI5cGsiI5P19cwbeJGIH-oy5fNAXl/view?usp=sharing) |
+| Student List | [Click Here](https://drive.google.com/file/d/1pdqKJ4REwHe5KZdKJblzQy0EI2xICj1i/view) |
 
 <br/>
 

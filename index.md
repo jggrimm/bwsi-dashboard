@@ -20,7 +20,7 @@ layout: default
 | CogWorks | Coming Soon! | Coming Soon! | Coming Soon! |
 | 3D Printing | Coming Soon! | Coming Soon! | Coming Soon! |
 | Cubesat | **6PM** <br/> Dinner at Johnson Ice Rink <br/> Go home after dinner | **9AM-5PM** <br/> Lobdell W20 <br/><br/> **12PM-1PM** <br/> Sponsor Lunch at Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ | **8:30AM-12PM** <br/> Lobdell W20 <br/><br/> **11:30AM-1PM** <br/> Working lunch truck <br/><br/> **1PM** <br/> Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ <br/><br/> **3PM** <br/> Cleanup Lobdell W20 |
-| Embedded | Coming Soon! | Coming Soon! | Coming Soon! |
+| Embedded Security | **6PM** <br/> Dinner at Johnson Ice Rink <br/> Go home after dinner | **9AM-3PM** <br/> Lobdell W20 <br/><br/> **12PM-1PM** <br/> Sponsor Lunch at Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ | **8:30AM-12PM** <br/> Lobdell W20  <br/><br/> **11:30AM-1PM** <br/> Working lunch truck <br/><br/> **1PM** <br/> Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ <br/><br/> **3PM** <br/> Cleanup Lobdell W20 |
 | Medlytics | Coming Soon! | Coming Soon! | Coming Soon! |
 | UAS-SAR | **6PM** <br/> Dinner at Johnson Ice Rink <br/> Go home after dinner | **9AM-5PM** <br/> Practice at High Bay Bldg. 31 <br/><br/> **12PM-1PM** <br/> Sponsor Lunch at Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ | **8:30AM-12PM** <br/> Bldg. 31 <br/><br/> **12PM-1PM** <br/> Lunch Truck <br/><br/> **1PM** <br/> Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ <br/><br/> **3PM** <br/> Cleanup Bldg. 31 |
 | Assistive Tech | Coming Soon! | Coming Soon! | Coming Soon! |

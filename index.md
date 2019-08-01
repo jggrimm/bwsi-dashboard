@@ -19,10 +19,10 @@ layout: default
 | UAV | **6PM** <br/> Pick up dinner at Johnson Ice Rink and go to Bldg. 31 class <br/><br/> **6:30PM-8PM** <br/> setup at MAC court – Johnson Athletic Center | **9AM-8PM** <br/> Practice at Bldg. 31 <br/><br/> **12PM-1PM** <br/> Sponsor Lunch at Johnson Ice Rink _MANDITORY FOR ALL STUDENTS_ <br/><br/> Note: If staying past 5PM students must get dinner on their own | **8:30AM-12PM** <br/> Bldg. 31 <br/><br/> **11:30PM-1PM** <br/> Working lunch truck <br/><br/> **1PM** <br/> Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ <br/><br/> **3PM** <br/> Cleanup Bldg. 31 |
 | CogWorks | Coming Soon! | Coming Soon! | Coming Soon! |
 | 3D Printing | Coming Soon! | Coming Soon! | Coming Soon! |
-| CubeSat | Coming Soon! | Coming Soon! | Coming Soon! |
+| Cubesat | **6PM** <br/> Dinner at Johnson Ice Rink <br/> Go home after dinner | **9AM-5PM** <br/> Lobdell W20 <br/><br/> **12PM-1PM** <br/> Sponsor Lunch at Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ | **8:30AM-12PM** <br/> Lobdell W20 <br/><br/> **11:30AM-1PM** <br/> Working lunch truck <br/><br/> **1PM** <br/> Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ <br/><br/> **3PM** <br/> Cleanup Lobdell W20 |
 | Embedded | Coming Soon! | Coming Soon! | Coming Soon! |
 | Medlytics | Coming Soon! | Coming Soon! | Coming Soon! |
-| UAV-SAR | Coming Soon! | Coming Soon! | Coming Soon! |
+| UAS-SAR | **6PM** <br/> Dinner at Johnson Ice Rink <br/> Go home after dinner | **9AM-5PM** <br/> Practice at High Bay Bldg. 31 <br/><br/> **12PM-1PM** <br/> Sponsor Lunch at Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ | **8:30AM-12PM** <br/> Bldg. 31 <br/><br/> **12PM-1PM** <br/> Lunch Truck <br/><br/> **1PM** <br/> Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ <br/><br/> **3PM** <br/> Cleanup Bldg. 31 |
 | Assistive Tech | Coming Soon! | Coming Soon! | Coming Soon! |
 | Remote Sensing | Coming Soon! | Coming Soon! | Coming Soon! |
 | Racecar (Middle School) | Coming Soon! | Coming Soon! | Coming Soon! |
@@ -39,7 +39,7 @@ layout: default
 | CubeSat | [Click Here](https://drive.google.com/file/d/1aeHqIxK4G0Kv-yaTI_t_mNX_YHgczGFd/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1Inn-eADDLnTRTnudXp80835OKs8ay2Jv/view?usp=sharing) |
 | Embedded | [Click Here](https://drive.google.com/file/d/1W8k9Vvd3WkK08ls-3cqKHp6A4uojs1Vs/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/13-t4R4SaISDZypFOPpfMAZR--Nl0OMlg/view?usp=sharing) |
 | Medlytics | [Click Here](https://drive.google.com/file/d/1esh6Y9h3qnsb8OSKIKP-Dz0QsMBMvpfh/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1MqH_uZpj6jhS-czXeXuw9eaPdFT33Psf/view?usp=sharing) |
-| UAV-SAR | [Click Here](https://drive.google.com/file/d/1eFTEsfdziLlYyfdNeggMU9R0M9yA6Ge8/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1UyMIpbCWXOu5q9CR_1aYVGpyssQ6BdgT/view?usp=sharing) |
+| UAS-SAR | [Click Here](https://drive.google.com/file/d/1eFTEsfdziLlYyfdNeggMU9R0M9yA6Ge8/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1UyMIpbCWXOu5q9CR_1aYVGpyssQ6BdgT/view?usp=sharing) |
 | Assistive Tech | [Click Here](https://drive.google.com/file/d/1M48whYhvRJxvrbda06ednzGDDfPMP05H/view?usp=sharing) | [Click Here]( https://drive.google.com/file/d/1NX97Ur7Sp9ok4Te1a22ZncnIG9dzBjHh/view?usp=sharing) |
 | Remote Sensing | [Click Here](https://drive.google.com/file/d/1xT6-MJ3ijQ0-J2vSp_oQ0ljkFWCka4uZ/view?usp=sharing) | [Click Here](https://drive.google.com/file/d/1QjEEw-63NyvLLNmulj7ElPwuFJdqyEP5/view?usp=sharing) |
 | Racecar (Middle School) | [Click Here](https://drive.google.com/file/d/1ZTU0sn02oI_mZ_ypvP0oO86XadcVU3wT/view) | [Click Here](https://drive.google.com/file/d/19E8G032gIjifUlle7j3gtzvyhoCcy2y1/view) |

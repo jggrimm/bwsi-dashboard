@@ -25,9 +25,10 @@ layout: default
 
 | Survey | Deadline | Link |
 | ------ | -------- | ---- |
-| Pre-Program | 7/11/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019__student_survey_preprogram_) |
-| Post-Program | 7/31/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_postprogram_) |
+| Pre-Program | 7/11/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019__student_survey_preprogram) |
+| Post-Program | 7/31/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019_student_survey_postprogram) |
 | Communications | 7/31/19 | [Click Here](https://mit-bwsi.formstack.com/forms/bwsi_2019__communications_survey)
+
 
 <br/>
  

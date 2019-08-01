@@ -13,6 +13,7 @@ layout: default
 | Livestream of Final Event | [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/) |
 
 # Final Event Schedule
+
 | Class Name | Friday | Saturday | Sunday |
 | ---------- | ------ | -------- | ------ |
 | Racecar | **6PM** <br/> Dinner at Johnson Ice Rink <br/><br/> **6:30PM-8PM** <br/> Setup track at Johnson Ice Rink <br/> *ALL STUDENTS MUST HELP!* | **9AM-8PM** <br/> Practice in Johnson Ice rink <br/><br/> **12PM-1PM** <br/> Sponsor Lunch at Johnson Ice Rink <br/> *MANDITORY FOR ALL STUDENTS* <br/><br/> Note: If staying past 5PM students must get dinner on their own | **8:30AM-12PM** <br/> Johnson Ice Rink <br/><br/> **12PM-1PM** <br/> Working lunch truck <br/><br/> **1PM** <br/> Johnson Ice Rink Final Race <br/><br/> **3PM** <br/> Cleanup Johnson Ice Rink |

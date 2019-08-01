@@ -3,15 +3,29 @@ layout: default
 ---
 ![BWSI](./assets/img/logo-full.png)
 
-# FINAL EVENT INFORMATION!
+# Final Event Information
 
-Invitation and RSVP : [Click Here](https://bwsi.app.rsvpify.com/)!
+| Name | Link |
+| ---- | ---- |
+| Invitation and RSVP | [Click Here](https://bwsi.app.rsvpify.com/) |
+| Short program | [Click Here](https://drive.google.com/file/d/1ha7z0dfWV3WyacrAFyxJvp6AON76jvm7/view?usp=sharing) |
+| Full program | Coming soon! |
+| Livestream of Final Event | [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/) |
 
-Short program : [Click Here](https://drive.google.com/file/d/1ha7z0dfWV3WyacrAFyxJvp6AON76jvm7/view?usp=sharing)!
-
-Full program : Coming soon!
-
-To watch the Final Event via live webcast online, [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/)!
+# Final Event Schedule
+| Class Name | Friday | Saturday | Sunday |
+| ---------- | ------ | -------- | ------ |
+| Racecar | **6PM** <br/> Dinner at Johnson Ice Rink <br/><br/> **6:30PM-8PM** <br/> Setup track at Johnson Ice Rink <br/> *ALL STUDENTS MUST HELP!* | **9AM-8PM** <br/> Practice in Johnson Ice rink <br/><br/> **12PM-1PM** <br/> Sponsor Lunch at Johnson Ice Rink <br/> *MANDITORY FOR ALL STUDENTS* <br/><br/> Note: If staying past 5PM students must get dinner on their own | **8:30AM-12PM** <br/> Johnson Ice Rink <br/><br/> **12PM-1PM** <br/> Working lunch truck <br/><br/> **1PM** <br/> Johnson Ice Rink Final Race <br/><br/> **3PM** <br/> Cleanup Johnson Ice Rink |
+| UAV | **6PM** <br/> Pick up dinner at Johnson Ice Rink and go to Bldg. 31 class <br/><br/> **6:30PM-8PM** <br/> setup at MAC court – Johnson Athletic Center | **9AM-8PM** <br/> Practice at Bldg. 31 <br/><br/> **12PM-1PM** <br/> Sponsor Lunch at Johnson Ice Rink _MANDITORY FOR ALL STUDENTS_ <br/><br/> Note: If staying past 5PM students must get dinner on their own | **8:30AM-12PM** <br/> Bldg. 31 <br/><br/> **11:30PM-1PM** <br/> Working lunch truck <br/><br/> **1PM** <br/> Johnson Ice Rink <br/> _MANDITORY FOR ALL STUDENTS_ <br/><br/> **3PM** <br/> Cleanup Bldg. 31 |
+| CogWorks | Coming Soon! | Coming Soon! | Coming Soon! |
+| 3D Printing | Coming Soon! | Coming Soon! | Coming Soon! |
+| CubeSat | Coming Soon! | Coming Soon! | Coming Soon! |
+| Embedded | Coming Soon! | Coming Soon! | Coming Soon! |
+| Medlytics | Coming Soon! | Coming Soon! | Coming Soon! |
+| UAV-SAR | Coming Soon! | Coming Soon! | Coming Soon! |
+| Assistive Tech | Coming Soon! | Coming Soon! | Coming Soon! |
+| Remote Sensing | Coming Soon! | Coming Soon! | Coming Soon! |
+| Racecar (Middle School) | Coming Soon! | Coming Soon! | Coming Soon! |
 
 
 # Student Course Links

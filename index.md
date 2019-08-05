@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+![*Thanks to the class of 2019 for a successfull program!*] (./assets/img/BWSI 2019 - class picture.jpg)
+
 ![BWSI](./assets/img/logo-full.png)
 
 # Final Event Information

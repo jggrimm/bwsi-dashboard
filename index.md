@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Thanks to the class of 2019 for a successfull program!
+# Thanks to the class of 2019 for a successful program!
 
 ![BWSI](./assets/img/logo-full.png)
 

@@ -11,7 +11,7 @@ layout: default
 | ---- | ---- |
 | Invitation and RSVP | [Click Here](https://bwsi.app.rsvpify.com/) |
 | Short program | [Click Here](https://drive.google.com/file/d/1ha7z0dfWV3WyacrAFyxJvp6AON76jvm7/view?usp=sharing) |
-| Full program |  [Click Here](https://drive.google.com/file/d/1uFA2qU1Y6lM4vy_S5WFuTVnqFYO0zisT/view?usp=sharing |
+| Full program |  [Click Here](https://drive.google.com/file/d/1uFA2qU1Y6lM4vy_S5WFuTVnqFYO0zisT/view?usp=sharing)|
 | Recorded Webcast of Final Event | [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/) |
 
 # Final Event Schedule

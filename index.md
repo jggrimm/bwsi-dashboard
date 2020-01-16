@@ -7,7 +7,7 @@ layout: default
 
 # Frequently Asked Questions (FAQ)
 
-Note: BWSI is managed with just a few people that also have additional responsibilities, *Please* make every effort to read the FAQ and answer your question prior to emailing staff bwsi-admin@mit.edu .
+Note: BWSI is managed with just a few people that also have additional responsibilities, *PLEASE* make every effort to read or search this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu .
 
 | Question | Answer |
 | ---- | ---- |
@@ -28,10 +28,11 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | How can I get BWSI emails at my school? | Talk to your school administrator to allow emails from "mit.edu" through the school firewall |
 | How can I get BWSI emails at non-school email address? | Provide a non-school email address to your teacher when you ask them to nominate you for BWSI |
 | Can you change my school email address on the form? | Due to our limited resources it may be faster to ask your teacher to resubmit a new nomination form with an email that won't be blocked |
-| What do I after I get the BWSIX email? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0)for more in-depth answers | 
+| What do I after I get the BWSIX email? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers | 
 
 # Online Course 
 | Question | Answer |
+| ---- | ---- |
 |Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily complete additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
 | How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course |
 

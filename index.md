@@ -18,7 +18,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | I'm a freshman/sophmore, can I apply? | We encourage interested students to be nominated to access the online course, but as we can only accept a limited number of students, students attending are generally finishing their junior year (i.e. rising seniors) |
 | I'm a senior, can I apply? | Current seniors are not eligible to apply (you should be getting ready for college and mentoring younger students) |
 |I'm a parent, can I attend? | Only the *final* event is open to everyone and we encourage parents and friends to visit to see their student's success, but we parents cannot visit during the program |
-| What does the program cost? | The program is free for day students (students who are local or arrange their own local housing), residential students may be chargeda $5,000 housing fee for the program, but we have information on fee waivers [here](https://beaverworks.ll.mit.edu/CMS/bw/Summer_Program_Application#overlay-context=bwsi) |
+| What does the program cost? | The program is free for day students (students who are local or arrange their own local housing), residential students may be charged a $5,000 housing fee for the program, but we have information on fee waivers [here](https://beaverworks.ll.mit.edu/CMS/bw/Summer_Program_Application#overlay-context=bwsi) |
 
 
 # Application process
@@ -33,15 +33,17 @@ Note: BWSI is managed with just a few people that also have additional responsib
 # Online Course 
 | Question | Answer |
 | ---- | ---- |
-|Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily complete additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
+| I'm having trouble logging into BWSIX, what can I do? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers |
+| Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily complete additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
 | How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course. |
+| How do I ask questions about course material? | We use Piazza as a forum for online course collaboration, You can register for an account on Piazza but course codes are ONLY available through the BWSIX course. | 
 
 <br/>
 
 
 # Internship Opportunities (to be updated as we have more information)
 
-Our sponsors understand that the best and brightest are coming here for courses and offer internships to students attending BWSI.
+Our sponsors understand that the best and brightest are coming here for courses and offer internships to selected students attending BWSI.
 
 | Name | Application Link | Additional Info | Due |
 | ---- | ---------------- | --------------- | --- |
@@ -51,7 +53,7 @@ Our sponsors understand that the best and brightest are coming here for courses 
 
 <br/>
 
-# 2019 Seminars
+# Daily Seminars during July (from 2019)
 
 We have world class researchers and educators present lunchtime lectures to attending students.  You can watch the webcasted seminars online, [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/)!
 

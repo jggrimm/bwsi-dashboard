@@ -34,14 +34,14 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | Question | Answer |
 | ---- | ---- |
 |Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily complete additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
-| How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course |
+| How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course. |
 
 <br/>
 
 
-# Internship Opportunities
+# Internship Opportunities (to be updated as we have more information)
 
-Some of the sponsors of BWSI offer internships to students attending BWSI
+Our sponsors understand that the best and brightest are coming here for courses and offer internships to students attending BWSI.
 
 | Name | Application Link | Additional Info | Due |
 | ---- | ---------------- | --------------- | --- |

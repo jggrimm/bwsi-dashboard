@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Hello to students applying for BWSI 2020 (our 5th year)!
+# Welcome students applying for BWSI 2020 (our 5th year)!
 
 ![BWSI](./assets/img/logo-full.png)
 
@@ -11,14 +11,14 @@ Note: BWSI is managed with just a few people that also have additional responsib
 
 | Question | Answer |
 | ---- | ---- |
-| Where can I get more information? | We try to keep our website as up-to-date as possible [BWSI](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) |
-| Do you offer programs for middle school? | We piloted our first course last year with the Mini-RACECAR course and plan on adding more this year. [Middle school program](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
+| Where can I get more information? | We try to keep our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) as up-to-date as possible. |
+| Do you offer programs for middle school? | We piloted our first course last year with the Mini-RACECAR course and plan on adding more this year. Here is info on our [Middle school program](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
 | I can't attend for the full month- can I come for just part? | Our program is very intensive and very competitive, so we ask that students applying *must* attend the full program. |
 | What other STEM programs are available? | MIT has many programs [here](https://outreach.mit.edu) and Lincoln Laboratory has more listed [here](http://www.ll.mit.edu/outreach) |
-| I'm a freshman/sophomore, can I apply? | We encourage interested students to be nominated to access the online course, but as we can only accept a limited number of students, students attending are generally finishing their junior year (i.e. rising seniors) |
+| I'm a freshman/sophomore, can I apply? | We encourage interested students to be nominated to access the online course, but as we can only accept a limited number of students, accepted students are generally finishing their junior year (i.e. rising seniors) |
 | I'm a senior, can I apply? | Current seniors are not eligible to apply (you should be getting ready for college and mentoring younger students) |
-|I'm a parent, can I attend? | Only the *final* event is open to everyone and we encourage parents and friends to visit to see their student's success, but we parents cannot visit during the program |
-| What does the program cost? | The program is free for day students (students who are local or arrange their own local housing), residential students may be charged a $5,000 housing fee for the program, but we have information on fee waivers [here](https://beaverworks.ll.mit.edu/CMS/bw/Summer_Program_Application#overlay-context=bwsi) |
+|I'm a parent, can I attend? | Only the *final* event is open to everyone and we encourage parents and friends to visit to see their student's success, but parents cannot visit during the program |
+| What does the program cost? | The program is *free* for day students (students who are local or arrange their own local housing), residential students may be charged a $5,000 housing fee for the program, but we have information on fee waivers [here](https://beaverworks.ll.mit.edu/CMS/bw/Summer_Program_Application#overlay-context=bwsi) |
 
 
 # Application process
@@ -36,7 +36,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course. |
 | I'm having trouble logging into BWSIX, what can I do? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers |
 | Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily complete additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
-| How do I ask questions about course material? | We use Piazza as a forum for online course collaboration, you can register for an account on Piazza but course codes are ONLY available through the BWSIX course. | 
+| How do I ask questions about course material? | We use Piazza as a forum for online course collaboration, you can register for an account on Piazza but course codes are ONLY available through the individual BWSIX course. | 
 
 <br/>
 

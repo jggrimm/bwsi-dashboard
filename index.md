@@ -22,6 +22,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 
 
 # Application process
+
 | Question | Answer |
 | ---- | ---- |
 | Have I been nominated? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
@@ -33,6 +34,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | What do I do after I get the BWSIX email? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers | 
 
 # Online Course 
+
 | Question | Answer |
 | ---- | ---- |
 | How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course. |

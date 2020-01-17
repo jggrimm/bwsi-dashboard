@@ -5,7 +5,7 @@ layout: default
 
 ![BWSI](./assets/img/logo-full.png)
 
-# Frequently Asked Questions (FAQ)
+# Frequently Asked Questions (FAQ) re. Beaver Works Summer Institute
 
 Note: BWSI is managed with just a few people that also have additional responsibilities, *PLEASE* make every effort to read or search this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu .
 
